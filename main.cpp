@@ -1,5 +1,6 @@
 #include "Vehicle.h"
 
+/* Add a comment */
 int main()  
 {  
 	string id1; 
